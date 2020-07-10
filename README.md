@@ -1,1 +1,1 @@
-# html-tag-stripper.github.io
+# https://html-tag-stripper.github.io
